@@ -7,6 +7,7 @@ Diseñadora web y UI/UX en Sevilla. Diseño en Figma y llevo mis diseños a cód
 ### Proyectos
 
 - **[portfolio](https://github.com/martafrancomtz/portfolio)**: mi web, [martafrancomtz.com](https://www.martafrancomtz.com). Sistema de diseño en variables CSS, retícula de 6 columnas e interacciones en JavaScript y WebGL, sin frameworks.
+- **[ejercicios-maquetacion](https://github.com/martafrancomtz/ejercicios-maquetacion)**: la misma página maquetada con BEM y con SUIT CSS, componentes en JavaScript (pestañas, acordeón y lightbox) y una prueba técnica de maquetador trainee.
 - **[CEI-Ejercicios](https://github.com/martafrancomtz/CEI-Ejercicios)**: mis primeras semanas con HTML y CSS en el Máster en Diseño Web y UI/UX.
 
 ### Con qué trabajo
