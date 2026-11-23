@@ -1,25 +1,23 @@
-# Hola, soy Marta Franco 👋
+# Hi, I'm Marta Franco 👋
 
-Diseñadora web y UI/UX en Sevilla. Diseño en Figma y llevo mis diseños a código con HTML y CSS, pensando desde el principio en cómo se van a construir.
+Web and UI/UX designer based in Seville, Spain. I design in Figma and code my designs myself in HTML, CSS and JavaScript, so I think about how they'll be built from the start.
 
-*Web and UI/UX designer based in Seville, Spain. I design in Figma and build with HTML, CSS and JavaScript.*
+### Projects
 
-### Proyectos
+- **[portfolio](https://github.com/martafrancomtz/portfolio)**: my website, [martafrancomtz.com](https://www.martafrancomtz.com). A design system built on CSS variables, a 6-column grid and interactions in JavaScript and WebGL, with no frameworks.
+- **[antonio-franco-web](https://github.com/martafrancomtz/antonio-franco-web)**: a portfolio website I designed and coded for Antonio Franco, who makes garments, with one page per piece. Live at [antoniofranco.martafrancomtz.com](https://antoniofranco.martafrancomtz.com).
+- **[ejercicios-maquetacion](https://github.com/martafrancomtz/ejercicios-maquetacion)**: the same page coded with BEM and with SUIT CSS, JavaScript components (tabs, accordion and lightbox) and a technical test for a trainee front-end developer role.
+- **[CEI-Ejercicios](https://github.com/martafrancomtz/CEI-Ejercicios)**: my first weeks with HTML and CSS in my Master's in Web Design and UI/UX.
 
-- **[portfolio](https://github.com/martafrancomtz/portfolio)**: mi web, [martafrancomtz.com](https://www.martafrancomtz.com). Sistema de diseño en variables CSS, retícula de 6 columnas e interacciones en JavaScript y WebGL, sin frameworks.
-- **[antonio-franco-web](https://github.com/martafrancomtz/antonio-franco-web)**: web portfolio que diseñé y maqueté para Antonio Franco, que confecciona prendas, con una página por pieza. Publicada en [antoniofranco.martafrancomtz.com](https://antoniofranco.martafrancomtz.com).
-- **[ejercicios-maquetacion](https://github.com/martafrancomtz/ejercicios-maquetacion)**: la misma página maquetada con BEM y con SUIT CSS, componentes en JavaScript (pestañas, acordeón y lightbox) y una prueba técnica de maquetador trainee.
-- **[CEI-Ejercicios](https://github.com/martafrancomtz/CEI-Ejercicios)**: mis primeras semanas con HTML y CSS en el Máster en Diseño Web y UI/UX.
+### What I work with
 
-### Con qué trabajo
+Figma · HTML · CSS (BEM, SUIT CSS) · JavaScript · Git · Adobe Photoshop, Illustrator, InDesign and After Effects · Maze · Squarespace · WordPress (Elementor) · Blender
 
-Figma · HTML · CSS (BEM, SUIT CSS) · JavaScript · Git · Adobe Photoshop, Illustrator, InDesign y After Effects · Maze · Squarespace · WordPress (Elementor) · Blender
+### Education
 
-### Formación
+- Master's in Web Design and UI/UX, CEI (2024–2025)
+- Higher Studies in Graphic Design, Ceade Leonardo (2020–2024), including an Erasmus semester at the University of Ljubljana
 
-- Máster en Diseño Web y UI/UX, CEI (2024–2025)
-- Estudios Superiores de Diseño Gráfico, Ceade Leonardo (2020–2024), con un semestre Erasmus en la Universidad de Liubliana
-
-### Contacto
+### Contact
 
 [martafrancomtz.com](https://www.martafrancomtz.com) · [LinkedIn](https://www.linkedin.com/in/martafrancomartinez) · martafrancomtz@gmail.com
